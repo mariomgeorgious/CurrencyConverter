@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\CurrencyConverter_v3\CurrencyConverter\CurrencyConverter.Core\bin\Debug\net8.0\CurrencyConverter.Core.deps.json
+C:\Users\DELL\source\repos\CurrencyConverter_v3\CurrencyConverter\CurrencyConverter.Core\bin\Debug\net8.0\CurrencyConverter.Core.dll
+C:\Users\DELL\source\repos\CurrencyConverter_v3\CurrencyConverter\CurrencyConverter.Core\bin\Debug\net8.0\CurrencyConverter.Core.pdb
+C:\Users\DELL\source\repos\CurrencyConverter_v3\CurrencyConverter\CurrencyConverter.Core\obj\Debug\net8.0\CurrencyConverter.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CurrencyConverter_v3\CurrencyConverter\CurrencyConverter.Core\obj\Debug\net8.0\CurrencyConverter.Core.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CurrencyConverter_v3\CurrencyConverter\CurrencyConverter.Core\obj\Debug\net8.0\CurrencyConverter.Core.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CurrencyConverter_v3\CurrencyConverter\CurrencyConverter.Core\obj\Debug\net8.0\CurrencyConverter.Core.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CurrencyConverter_v3\CurrencyConverter\CurrencyConverter.Core\obj\Debug\net8.0\CurrencyConverter.Core.dll
+C:\Users\DELL\source\repos\CurrencyConverter_v3\CurrencyConverter\CurrencyConverter.Core\obj\Debug\net8.0\refint\CurrencyConverter.Core.dll
+C:\Users\DELL\source\repos\CurrencyConverter_v3\CurrencyConverter\CurrencyConverter.Core\obj\Debug\net8.0\CurrencyConverter.Core.pdb
+C:\Users\DELL\source\repos\CurrencyConverter_v3\CurrencyConverter\CurrencyConverter.Core\obj\Debug\net8.0\ref\CurrencyConverter.Core.dll

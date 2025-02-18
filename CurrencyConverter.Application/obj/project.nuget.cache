@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/L7fNQpU3vbpTkc7SjfcwbPOC4W5yG/d/1aXKsSdpReCqIeNWReexbEAgwXEEr+R37tA8p262cpkKaVChqVEbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\CurrencyConverter_v3\\CurrencyConverter\\CurrencyConverter.Application\\CurrencyConverter.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\polly\\8.5.2\\polly.8.5.2.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\polly.core\\8.5.2\\polly.core.8.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

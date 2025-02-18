@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\CurrencyConverter_v3\CurrencyConverter\CurrencyConverter.Application\bin\Debug\net8.0\CurrencyConverter.Application.deps.json
+C:\Users\DELL\source\repos\CurrencyConverter_v3\CurrencyConverter\CurrencyConverter.Application\bin\Debug\net8.0\CurrencyConverter.Application.dll
+C:\Users\DELL\source\repos\CurrencyConverter_v3\CurrencyConverter\CurrencyConverter.Application\bin\Debug\net8.0\CurrencyConverter.Application.pdb
+C:\Users\DELL\source\repos\CurrencyConverter_v3\CurrencyConverter\CurrencyConverter.Application\bin\Debug\net8.0\CurrencyConverter.Core.dll
+C:\Users\DELL\source\repos\CurrencyConverter_v3\CurrencyConverter\CurrencyConverter.Application\bin\Debug\net8.0\CurrencyConverter.Core.pdb
+C:\Users\DELL\source\repos\CurrencyConverter_v3\CurrencyConverter\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CurrencyConverter_v3\CurrencyConverter\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CurrencyConverter_v3\CurrencyConverter\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CurrencyConverter_v3\CurrencyConverter\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CurrencyConverter_v3\CurrencyConverter\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CurrencyConverter_v3\CurrencyConverter\CurrencyConverter.Application\obj\Debug\net8.0\Currency.FC9E407D.Up2Date
+C:\Users\DELL\source\repos\CurrencyConverter_v3\CurrencyConverter\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.dll
+C:\Users\DELL\source\repos\CurrencyConverter_v3\CurrencyConverter\CurrencyConverter.Application\obj\Debug\net8.0\refint\CurrencyConverter.Application.dll
+C:\Users\DELL\source\repos\CurrencyConverter_v3\CurrencyConverter\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.pdb
+C:\Users\DELL\source\repos\CurrencyConverter_v3\CurrencyConverter\CurrencyConverter.Application\obj\Debug\net8.0\ref\CurrencyConverter.Application.dll

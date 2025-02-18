@@ -1,0 +1,11 @@
+bin/
+obj/
+*.user
+*.suo
+*.log
+*.pdb
+*.vs
+.env
+node_modules/
+Dockerfile
+docker-compose.yml
